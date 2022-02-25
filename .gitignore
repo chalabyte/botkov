@@ -1,0 +1,6 @@
+config_*.yml
+brain.json
+dataset.txt
+raw_data/
+
+.vscode

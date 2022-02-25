@@ -1,0 +1,9 @@
+core:
+  brain_file: brain.json
+bot:
+  name: Bot Name
+  activity: activity string
+  token: <Discord api token>
+  cmd: bot
+  response_chance: 0.6
+  
